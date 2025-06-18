@@ -1,0 +1,14 @@
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\bin\Debug\net9.0\BaseWebApp.Dal.deps.json
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\bin\Debug\net9.0\BaseWebApp.Dal.runtimeconfig.json
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\bin\Debug\net9.0\BaseWebApp.Dal.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\bin\Debug\net9.0\BaseWebApp.Dal.pdb
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.csproj.AssemblyReference.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.AssemblyInfoInputs.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.AssemblyInfo.cs
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.csproj.CoreCompileInputs.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\refint\BaseWebApp.Dal.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.pdb
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\BaseWebApp.Dal.genruntimeconfig.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Dal\obj\Debug\net9.0\ref\BaseWebApp.Dal.dll

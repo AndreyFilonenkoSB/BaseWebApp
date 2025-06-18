@@ -1,0 +1,15 @@
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\bin\Debug\net9.0\BaseWebApp.Bll.deps.json
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\bin\Debug\net9.0\BaseWebApp.Bll.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\bin\Debug\net9.0\BaseWebApp.Bll.pdb
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\bin\Debug\net9.0\BaseWebApp.Dal.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\bin\Debug\net9.0\BaseWebApp.Dal.pdb
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.csproj.AssemblyReference.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.AssemblyInfoInputs.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.AssemblyInfo.cs
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.csproj.CoreCompileInputs.cache
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebA.6935FE59.Up2Date
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\refint\BaseWebApp.Bll.dll
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\BaseWebApp.Bll.pdb
+C:\p\Sparkybit\Dotnet rewise\dotnet-base\BaseWebApp.Bll\obj\Debug\net9.0\ref\BaseWebApp.Bll.dll

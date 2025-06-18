@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  # Service 1: PostgreSQL Database
+  postgres-db:
+    image: postgres:16
+    container_name: basewebapp_postgres
+    restart: always
+    environment:
+      - POSTGRES_USER=myuser
+      - POSTGRES_PASSWORD=mypassword
+      - POSTGRES_DB=basewebapp_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # Service 2: Seq Logging Server
+  seq:
+    image: datalust/seq:latest
+    container_name: basewebapp_seq
+    restart: always
+    environment:
+      - ACCEPT_EULA=Y
+    ports:
+      - "8081:80" # Host port 8081 maps to the container's standard HTTP port 80
+    volumes:
+      - seq_data:/data
+
+volumes:
+  postgres_data:
+  seq_data:
